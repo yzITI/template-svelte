@@ -9,5 +9,5 @@ let cot = 0
 <div class="p-2">
   <div>Hello, world!</div>
   <div>cot = { cot }</div>
-  <button on:click={() => cot++}>Click me!</button>
+  <button on:click={ () => cot++ }>Click me!</button>
 </div>
