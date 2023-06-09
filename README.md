@@ -1,6 +1,6 @@
 # template-svelte
 
-Vite + Svelte + SvelteKit + TailwindCSS
+Vite + Svelte + SvelteKit + TailwindCSS + [AceUI](https://ace-ui.pages.dev)
 
 ## Get Started
 
