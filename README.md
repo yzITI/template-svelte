@@ -11,6 +11,12 @@ Change project name in  `package.json`
 "name": "project-name"
 ```
 
+Change page title in `src/routes/layout.svelte`
+
+```html
+<title>Your Page Title</title>
+```
+
 Install dependency
 
 ```
